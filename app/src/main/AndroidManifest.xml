@@ -15,7 +15,8 @@
         <activity
             android:name=".Add_Activity"
             android:parentActivityName=".MainActivity"
-            android:exported="false">
+            android:exported="false"
+            >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
